@@ -1,1 +1,1 @@
-printf("lab program 3")
+print("lab program 3")
